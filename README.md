@@ -1,2 +1,2 @@
 # ng432.github.io
-Personal website
+Personal website to showcase my CV and projects.
